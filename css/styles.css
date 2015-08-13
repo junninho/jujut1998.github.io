@@ -1,0 +1,167 @@
+#footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%; }
+
+#scrubber {
+  position: fixed;
+  bottom: 45px;
+  display: none; }
+
+.content p {
+  padding: 80px; }
+
+#action {
+  width: 250px;
+  position: absolute; }
+
+.action-sheet-container .button {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+  font-size: 1rem; }
+
+.action-sheet ul.action-sheet-list {
+  margin-right: 40px; }
+
+.medium-6 a {
+  text-align: center; }
+
+.canvas-title {
+  color: #245983;
+  font-weight: bold; }
+
+.canvas-buttons {
+  color: #47638C; }
+
+#cover {
+  width: 68px;
+  height: 100px; }
+
+.books {
+  padding-top: 30px;
+  padding-left: 40px; }
+
+.books img {
+  padding-bottom: 20px; }
+
+#book-info {
+  color: #D4D9E1;
+  padding-left: 20px; }
+
+#book-info p {
+  font-size: 12px;
+  line-height: 1; }
+
+.hub-action p {
+  color: #566B91;
+  padding-top: 40px;
+  font-size: 14px; }
+
+.hub-delete {
+  text-align: right; }
+
+.help {
+  padding-top: 50px;
+  padding-left: 30px; }
+
+.help a {
+  color: black;
+  padding-bottom: 30px;
+  font-weight: bold; }
+
+.whats-new {
+  padding-top: 50px;
+  padding-left: 30px; }
+
+.whats-new a {
+  color: black;
+  padding-bottom: 30px;
+  font-weight: bold; }
+
+.whats-new-heading {
+  font-weight: bold; }
+
+.new {
+  margin-left: 20px; }
+
+.update {
+  padding-top: 50px;
+  padding-left: 30px; }
+
+.update a {
+  color: black;
+  padding-bottom: 30px;
+  font-weight: bold; }
+
+.faq {
+  padding-top: 50px;
+  padding-left: 30px; }
+
+.faq a {
+  color: black;
+  padding-bottom: 30px;
+  font-weight: bold; }
+
+#faq-text {
+  padding-top: 30px; }
+
+.about {
+  padding-top: 40px; }
+  .about .about-content {
+    margin: 40px; }
+  .about ul {
+    list-style: none; }
+
+.bottom-app-bar .menu-group {
+  background-color: #F8F6F8; }
+  .bottom-app-bar .menu-group .menu-bar li {
+    background-color: #F8F6F8; }
+  .bottom-app-bar .menu-group .menu-bar a {
+    color: #A6BBD4; }
+
+.hub {
+  padding-top: 40px; }
+  .hub .hub-contents {
+    padding-top: 8px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 2px #eee solid; }
+    .hub .hub-contents .hub-images {
+      height: 130px; }
+
+.college-page {
+  margin-left: 40px; }
+  .college-page img {
+    width: 350px;
+    height: 350px; }
+  .college-page .deadline-msg {
+    margin-left: 20px; }
+  .college-page .description {
+    padding: 10px;
+    max-width: 700px; }
+
+
+.tools-menu ul {
+  list-style: none; }
+
+.top-app-bar {
+  background-color: #F8F6F8; }
+  .top-app-bar .left a {
+    color: #6C9ACD; }
+  .top-app-bar .title {
+    color: #98979B; }
+  .top-app-bar .right a {
+    color: #6C9ACD; }
+  .top-app-bar .right .action-sheet {
+    background-color: #E0E9F5; }
+  .top-app-bar .right .action-sheet.is-active a {
+    color: #92979D; }
+  .top-app-bar .right .action-sheet::after, .top-app-bar .right .action-sheet::before {
+    border-bottom-color: #E0E9F5; }
+
+.welcome {
+  background: url(http://chsredandblack.com/wp-content/uploads/college-road-sign.png) no-repeat;
+  background-size: 100% 100%;
+  height: 100vh; }
